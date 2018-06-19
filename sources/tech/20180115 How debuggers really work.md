@@ -1,4 +1,4 @@
-How debuggers really work
+translating by sunxi How debuggers really work
 ======
 
 ![](https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/annoyingbugs.png?itok=ywFZ99Gs)
