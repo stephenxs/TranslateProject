@@ -1,12 +1,16 @@
-translated by stephenxs
-
 Top Linux developers' recommended programming books
 ======
+顶尖linux开发者推荐的编程书籍
+======
+
 Without question, Linux was created by brilliant programmers who employed good computer science knowledge. Let the Linux programmers whose names you know share the books that got them started and the technology references they recommend for today's developers. How many of them have you read?
+毫无疑问，Linux 是由精通计算机科学知识的优秀程序员创建的。让那些你说得出名字的 Linux 程序员为今天的开发者共享一些他们入门时读的书籍以及推荐一些技术参考资料。这些书中，你读过多少？
 
 Linux is, arguably, the operating system of the 21st century. While Linus Torvalds made a lot of good business and community decisions in building the open source community, the primary reason networking professionals and developers adopted Linux is the quality of its code and its usefulness. While Torvalds is a programming genius, he has been assisted by many other brilliant developers.
+Linux 可以说是21世纪的操作系统。虽然 Linus Torvalds 在建设开源社区方面做了很多有益的商业和社区决策，网络专业人员和开发者选用 Linux 的主要原因是它代码的质量和实用性。尽管 Torvalds 是一个编程天才，他也得到了许多其他优秀开发者的帮助。
 
 I asked Torvalds and other top Linux developers which books helped them on their road to programming excellence. This is what they told me.
+我问 Torvalds 以及其它顶尖 Linux 开发者哪些书帮助他们达到了卓越的编程水平，以下是他们告诉我的。
 
 ### By shining C
 
